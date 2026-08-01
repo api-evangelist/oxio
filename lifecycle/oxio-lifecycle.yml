@@ -1,0 +1,17 @@
+generated: '2026-07-20'
+method: searched
+source: https://status.oxio.com
+# OXIO's public API documentation, versioning policy, and deprecation policy
+# are gated behind authorized-customer access, so only publicly verifiable
+# lifecycle signals are captured here.
+status_page: https://status.oxio.com
+status_page_platform: Atlassian Statuspage
+versioning:
+  scheme: unknown
+  note: Versioning policy is documented only inside the gated developer portal.
+deprecation:
+  policy_url: null
+  note: No public deprecation/Sunset policy located (developer docs are gated).
+sla:
+  url: null
+deprecated_operations: []

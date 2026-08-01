@@ -1,0 +1,25 @@
+# OXIO
+
+> OXIO is a Telecom-as-a-Service (TaaS) platform that lets brands and enterprises launch and operate their own mobile networks (MVNOs) through a single API, without building traditional telecom infrastructure. Its API-first platform unifies multiple carriers behind one integration and adds business-intelligence and no-code tooling on top.
+
+OXIO's public developer documentation, OpenAPI definitions, authentication reference, and sandbox are gated behind authorized-customer access, so this file is generated from the API Evangelist catalog profile rather than a published llms.txt.
+
+## Products
+- [BrandVNO](https://oxio.com/): No-code platform to build and launch a custom branded mobile service (MVNO in a box).
+- [BrandIQ](https://oxio.com/): AI-powered business intelligence over subscriber and network behavior.
+- [OXIO Network](https://oxio.com/): Multi-carrier connectivity delivered through a single integration.
+
+## Developers
+- [Developer Portal](https://oxio.com/developers/): RESTful, API-first telecom platform; documentation, sandbox, and Postman collection provided to authorized customers.
+- [Request Demo / Access](https://oxio.com/request-demo/): Request access to the platform and developer documentation.
+- [Status Page](https://status.oxio.com): OXIO platform status (Atlassian Statuspage).
+
+## Company
+- [Website](https://oxio.com)
+- [Blog](https://oxio.com/blog/)
+- [GitHub](https://github.com/oxiocorp)
+- [Trust Center](https://app.vanta.com/oxio/trust/cyte30ise7d5pq8l0zd4n4)
+
+## Legal
+- [Terms of Service](https://oxio.com/legal/terms)
+- [Privacy Policy](https://oxio.com/legal/privacy)
