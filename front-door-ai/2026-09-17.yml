@@ -1,0 +1,27 @@
+# Front Door AI Index — oxio — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: oxio
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: oxio.com
+  final_host: oxio.com
+  ownership: own
+  owner: oxio
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 4
+  host_score: 4
+  density: 2.87
+  words: 1396
+  tiers:
+    agentic: 0
+    core: 4
+    model: 0
+  ambiguous: 10
+  top_terms:
+    intelligence: 10
+    AI: 3
+    artificial intelligence: 1
